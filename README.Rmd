@@ -68,6 +68,8 @@ informative
 
 ### function + unit tests
 
+`testthat`
+
 ### versioning
 
 ### push

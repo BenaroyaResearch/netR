@@ -51,6 +51,8 @@ informative `git checkout -b <branch_name>`
 
 ### function + unit tests
 
+`testthat`
+
 ### versioning
 
 ### push
