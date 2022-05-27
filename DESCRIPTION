@@ -1,7 +1,7 @@
 Package: netR
 Type: Package
 Title: Tools for network analysis
-Version: 0.1.0
+Version: 0.2.0
 Author: Tomasz Janczyk
 Maintainer: Tomasz Janczyk <tjanczyk@benaroyaresearch.org>
 Description: Collection of functions to manipulate and analyze large 
@@ -12,6 +12,7 @@ LazyData: true
 Imports: 
     data.table
 Suggests: 
+    covr,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 RoxygenNote: 7.1.2
