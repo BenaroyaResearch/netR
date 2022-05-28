@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/BenaroyaResearch/netR/workflows/R-CMD-check/badge.svg)](https://github.com/BenaroyaResearch/netR/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/BenaroyaResearch/netR/branch/main/graph/badge.svg)](https://app.codecov.io/gh/BenaroyaResearch/netR?branch=main)
 <!-- badges: end -->
 
 `netR`
