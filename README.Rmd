@@ -104,6 +104,8 @@ to `Author` field in `DESCRIPTION` file.
 getting approval from other collaborator, merge your development branch into
 `main`
 
+9. Switch to `main` branch with `git checkout main` and sync your local with 
+remote branch using `git pull origin main`
 
 ### Merging into main branch
   

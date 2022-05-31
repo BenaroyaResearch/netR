@@ -95,6 +95,9 @@ This Readme is generated from `README.Rmd`. To update this file, modify
     and getting approval from other collaborator, merge your development
     branch into `main`
 
+10. Switch to `main` branch with `git checkout main` and sync your local
+    with remote branch using `git pull origin main`
+
 ### Merging into main branch
 
 `main` is a *protected* branch, meaning that you cannot push directly to
