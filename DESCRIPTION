@@ -1,7 +1,7 @@
 Package: netR
 Type: Package
 Title: Tools for network analysis
-Version: 0.2.0
+Version: 0.2.1
 Author: Tomasz Janczyk
 Maintainer: Tomasz Janczyk <tjanczyk@benaroyaresearch.org>
 Description: Collection of functions to manipulate and analyze large 
